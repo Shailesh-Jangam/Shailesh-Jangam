@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shailesh-Jangam
-- 👀 I’m interested in creating positive impact with my skills in a Data Scientist/Data Engineer role
+- 👀 I’m interested in creating a positive impact with my skills in a Data Scientist/Data Engineer role
 - 🌱 I’m currently learning Advanced Machine Learning and Gen AI
 - 💞️ I’m looking to collaborate on working for the Sports or Banking industry
 - 📫 How to reach me: shaileshjangam79@gmail.com
